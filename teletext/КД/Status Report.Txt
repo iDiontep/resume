@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 14:45:42 On 13.02.2025
+
+Output: GOST BOM
+Type  : GOSTBOM
+From  : Project [teletext.PrjPcb]
+   Generated File[teletext_ощ3.xls]
+   Generated File[teletext_бо.xls]
+   Generated File[teletext.xls]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:45:46 On 13.02.2025

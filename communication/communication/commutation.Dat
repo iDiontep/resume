@@ -1,0 +1,138 @@
+﻿Field=Designator~String~Designator~100|Field=Quantity~Integer~Quantity~100|Field=CompType~String~CompType~100|Field=DocumentName~String~DocumentName~100|Field=Title~String~Title~100|Field=Engineer~String~Engineer~100|Field=Value~String~Value~100|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=LogicalDesignator~String~LogicalDesignator~100|Field=PhysicalPath~String~PhysicalPath~100|Field=Project~String~Project~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~commutation.PrjPcb|ReportField=ProjectFullPath~C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb|ReportField=Title~Bill of Materials For Project [commutation.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~137|ReportField=ReportTime~15:34:24|ReportField=ReportDate~19.05.2016|ReportField=ReportDateTime~19.05.2016 15:34:24|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=BoardName~Communication Board|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Кузнецов В. А.|ReportField=CheckedBy~|ReportField=CompanyName~ОАО "Тетис-Про"|ReportField=ConfigurationParameters~|ReportField=CurrentDate~19.05.2016|ReportField=CurrentTime~12:44:54|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\communication.SchDoc|ReportField=DocumentName~communication.SchDoc|ReportField=DocumentNumber~|ReportField=DocumentType~|ReportField=DocumentType1str~|ReportField=DocumentType2str~Схема электрическая принципиальная|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=EngineerName~|ReportField=ImagePath~|ReportField=Letter1Column~|ReportField=Letter2Column~|ReportField=Letter3Column~|ReportField=Mass~|ReportField=ModifiedDate~19.05.2016|ReportField=NormInspection~|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=False:CenterVertical=False:PrintScale=0.95:XCorrection=0.00:YCorrection=0.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=1:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=15:PrintQuality=600:MediaType=1:DitherType=10:PaperKind=A4:PrintScaleMode=1|ReportField=ProcessInspection~|ReportField=ProjectName~commutation.PrjPcb|ReportField=Revision~v1.1|ReportField=Rule~|ReportField=Scale~|ReportField=SheetNumber~1|ReportField=SheetTotal~1|ReportField=Time~CommutationTitle|ReportField=Title~Плата коммутации|ReportField=Title1str~|ReportField=Title2str~|ReportField=DataSourceFileName~commutation.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+C39|1|Керамический конд. 0805 50В|communication.SchDoc|Плата коммутации||100pF|||C39|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+C40|1|Керамический конд. 0805 50В|communication.SchDoc|Плата коммутации||100pF|||C40|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+C41|1|Керамический конд. 0805 50В|communication.SchDoc|Плата коммутации||100pF|||C41|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+C42|1|Керамический конд. 0805 50В|communication.SchDoc|Плата коммутации||100pF|||C42|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D1|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D1|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D2|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D2|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D3|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D3|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D4|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D4|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D5|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D5|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D6|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D6|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D7|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D7|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D8|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D8|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D9|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D9|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D10|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D10|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D11|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D11|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D12|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D12|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D13|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D13|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D14|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D14|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D15|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D15|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D16|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D16|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D17|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D17|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D18|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D18|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+D23|1|Светодиод красн./зел. BL-L517EGW|communication.SchDoc|Плата коммутации|||||D23|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F1|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F1|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F2|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F2|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F3|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F3|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F4|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F4|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F5|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F5|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F6|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F6|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F7|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F7|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F8|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F8|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F9|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F9|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F10|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F10|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F11|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F11|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F12|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F12|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F13|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F13|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F14|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F14|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F15|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F15|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F16|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F16|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F17|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F17|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F18|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F18|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F19|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F19|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F20|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F20|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F21|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F21|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F22|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F22|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F23|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F23|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F24|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F24|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F25|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F25|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F26|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F26|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F27|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F27|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F28|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F28|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F29|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F29|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F30|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F30|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F31|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F31|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F32|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F32|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F33|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F33|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F34|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F34|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F35|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F35|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F36|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F36|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F37|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F37|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F38|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F38|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F39|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F39|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F40|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F40|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F41|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F41|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F42|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F42|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F43|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F43|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F44|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F44|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F45|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F45|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F46|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F46|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F47|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F47|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F48|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F48|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F49|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F49|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F50|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F50|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F51|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F51|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F52|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F52|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F53|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F53|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F54|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F54|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F55|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F55|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F56|1|Предохранитель самовосст. RXEF010|communication.SchDoc|Плата коммутации||0.1A|||F56|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+F57|1|Предохранитель плавкий 250V 5x20|communication.SchDoc|Плата коммутации||6.3A|||F57|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+MUX|1|Мультиплексор OM610-4V-6D-1EWT|communication.SchDoc|Плата коммутации|||MUX||MUX|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R1|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R1|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R2|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R2|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R3|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R3|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R4|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R4|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R5|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R5|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R6|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R6|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R7|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R7|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R8|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R8|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R9|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R9|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R10|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R10|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R11|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R11|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R12|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R12|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R13|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R13|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R14|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R14|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R15|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R15|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R16|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R16|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R17|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R17|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R18|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R18|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R20|1|Резистор 0.125Вт 0805|communication.SchDoc|Плата коммутации||120|||R20|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R22|1|Резистор 0.125Вт 0805|communication.SchDoc|Плата коммутации||120|||R22|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R23|1|Резистор 1Вт 2512|communication.SchDoc|Плата коммутации||5.6K|||R23|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R24|1|Резистор 0.125Вт 0805|communication.SchDoc|Плата коммутации||1K|||R24|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R25|1|Резистор 0.125Вт 0805|communication.SchDoc|Плата коммутации||1K|||R25|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R26|1|Резистор 0.125Вт 0805|communication.SchDoc|Плата коммутации||1K|||R26|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+R27|1|Резистор 0.125Вт 0805|communication.SchDoc|Плата коммутации||1K|||R27|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+SB1|1|Кнопка PS850L|communication.SchDoc|Плата коммутации|||TEST||SB1|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+T1|1|Трансформатор, 3 обм.|communication.SchDoc|Плата коммутации|||TRANSFORMER 3W||T1|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+T2|1|Трансформатор, 3 обм.|communication.SchDoc|Плата коммутации|||TRANSFORMER 3W||T2|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+T3|1|Трансформатор, 3 обм.|communication.SchDoc|Плата коммутации|||TRANSFORMER 3W||T3|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+T4|1|Трансформатор, 3 обм.|communication.SchDoc|Плата коммутации|||TRANSFORMER 3W||T4|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X1|1|Клеммник на плату верт., 3,81мм, 2 пин. (ECH381V-2P)|communication.SchDoc|Плата коммутации|||VIDEO 1||X1|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X2|1|Клеммник на плату верт., 3,81мм, 2 пин. (ECH381V-2P)|communication.SchDoc|Плата коммутации|||VIDEO 2||X2|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X3|1|Клеммник на плату верт., 3,81мм, 2 пин. (ECH381V-2P)|communication.SchDoc|Плата коммутации|||VIDEO 3||X3|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X4|1|Клеммник на плату верт., 3,81мм, 2 пин. (ECH381V-2P)|communication.SchDoc|Плата коммутации|||VIDEO 4||X4|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X5|1|Клеммник на плату верт., 3,81мм, 4 пин. (ECH381V-4P)|communication.SchDoc|Плата коммутации|||OUTPUT||X5|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X6|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS485||X6|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X7|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS485||X7|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X8|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS485||X8|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X9|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS485||X9|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X10|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS485||X10|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X11|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS485||X11|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X12|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS485||X12|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X13|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS485||X13|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X14|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS485||X14|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X15|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS485||X15|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X16|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS485||X16|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X17|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS485||X17|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X18|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS485||X18|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X19|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS232||X19|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X20|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS485||X20|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X21|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS485||X21|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X22|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS232||X22|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X23|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS232||X23|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X24|1|Клеммник на плату верт., 3,81мм, 5 пин. (ECH381V-5P)|communication.SchDoc|Плата коммутации|||RS232||X24|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X25|1|Разъём на плату верт., 2,5мм, 8 пин. (CWF-8)|communication.SchDoc|Плата коммутации|||RS232||X25|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb
+X28|1|Разъем Molex Micro-Fit 3.0, 20 Circuits, на плату (0430452014)|communication.SchDoc|Плата коммутации|||POWER||X28|communication|C:\Users\Владимир Кузнецов\Documents\PCBs\commutation\commutation.PrjPcb

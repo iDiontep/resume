@@ -1,0 +1,18 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [teletext2.PcbDoc]
+   Generated File[teletext2.GTO]
+   Generated File[teletext2.GTS]
+   Generated File[teletext2.GTL]
+   Generated File[teletext2.GBL]
+   Generated File[teletext2.GBS]
+   Generated File[teletext2.GBO]
+   Generated File[teletext2.RUL]
+   Generated File[teletext2.EXTREP]
+   Generated File[teletext2.REP]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At 19:58:44 On 05.01.2025

@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:40:36 On 24.07.2024
+
+Output: GOST BOM
+Type  : GOSTBOM
+From  : Project [commutation.PrjPcb]
+   Generated File[commutation_ощ3.xls]
+   Generated File[commutation_бо.xls]
+   Generated File[commutation.xls]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:40:39 On 24.07.2024

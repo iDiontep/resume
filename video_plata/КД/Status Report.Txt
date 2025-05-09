@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:25:00 On 21.12.2024
+
+Output: GOST BOM
+Type  : GOSTBOM
+From  : Project [PET.PrjPcb]
+   Generated File[PET_ощ3.xls]
+   Generated File[PET_бо.xls]
+   Generated File[PET.xls]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:25:05 On 21.12.2024

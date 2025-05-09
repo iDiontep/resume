@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [communication.PcbDoc]
+   Generated File[communication.GTO]
+   Generated File[communication.GTS]
+   Generated File[communication.GTL]
+   Generated File[communication.GBL]
+   Generated File[communication.GBS]
+   Generated File[communication.GBO]
+   Generated File[communication.GM4]
+   Generated File[communication.RUL]
+   Generated File[communication.EXTREP]
+   Generated File[communication.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 16:40:44 On 24.07.2024

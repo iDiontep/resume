@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: communication.PcbDoc   24.07.2024  16:40:41
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : communication.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             36        PTH        615.00mm (24.21inch)
+T2      0.762mm (30mil)                                           Round             21        PTH        264.92mm (10.43inch)
+T3      0.8mm (31mil)                                             Round             50        PTH        1028.66mm (40.50inch)
+T4      0.9mm (35mil)                                             Round             6         PTH        16.00mm (0.63inch)
+T5      1.2mm (47mil)                                             Round             151       PTH        1522.26mm (59.93inch)
+T6      1.4mm (55mil)                                             Round             38        PTH        1248.86mm (49.17inch)
+T7      3.2mm (126mil)                                            Round             10        PTH        504.69mm (19.87inch)
+T8      1.2mm (47mil)                                             Round             2         NPTH       33.65mm (1.32inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              314
+
+Total Processing Time (hh:mm:ss) : 00:00:00
