@@ -6,13 +6,23 @@
 
 .
 ├── LICENSE # Лицензия MIT
+
 ├── README.md # Этот файл
+
 ├── .gitignore # Игнорирование временных файлов Altium
+
 ├── PlataMagnitometra.PcbDoc # Плата кправления данных магнитометра
+
 ├── communication.PcbDoc # Плата модуля связи 
+
 ├── teletext2.PcbDoc # Плата графического контроллера
+
 ├── video_plata.PcbDoc # Видеоплата управление модулем видеокамеры
+
 ├── PlataMagnitometra/ # Схемы, ВО, PDF-экспорт
+
 ├── communication/ # Схемы, ВО, PDF-экспорт
+
 ├── teletext/ # Схемы, ВО, PDF-экспорт
+
 └── video_plata/ # Схемы, ВО, PDF-экспорт
